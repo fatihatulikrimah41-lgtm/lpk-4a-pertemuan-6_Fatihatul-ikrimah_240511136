@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pertemuan 6 - Fetch API &amp; Live Demo Proyek</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Pertemuan 6 - Fetch API &amp; Live Demo Proyek</h1>
+            <p class="subtitle">Fatihatul Ikrimah &bull; NIM 240511136</p>
+        </header>
+
+        <section class="controls">
+            <input type="text" id="input-cari" placeholder="Cari nama proyek, teknologi, atau status...">
+            <select id="filter-status">
+                <option value="semua">Semua Status</option>
+                <option value="Selesai">Selesai</option>
+                <option value="Proses">Proses</option>
+            </select>
+            <button type="button" id="btn-muat-github">Sync Semua Repo GitHub</button>
+        </section>
+
+        <div id="status-bar" class="status-bar">Menghubungkan ke GitHub API...</div>
+
+        <main id="grid-data" class="grid"></main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

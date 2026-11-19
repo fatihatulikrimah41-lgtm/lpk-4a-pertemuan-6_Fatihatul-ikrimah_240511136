@@ -1,0 +1,29 @@
+[
+  {
+    "id": "portal-akademik",
+    "judul": "Portal Akademik Kampus",
+    "deskripsi": "Sistem informasi akademik berbasis web untuk jadwal kuliah dan nilai.",
+    "teknologi": "HTML & Tailwind",
+    "status": "Selesai",
+    "demoUrl": "https://fatihatulikrimah41-lgtm.github.io/Portal-akademik_Fatihatul-ikrimah/",
+    "repoUrl": "https://github.com/fatihatulikrimah41-lgtm/Portal-akademik_Fatihatul-ikrimah"
+  },
+  {
+    "id": "pengingat-makanan",
+    "judul": "Pengingat Kedaluwarsa Makanan di Kos",
+    "deskripsi": "Aplikasi pencatat masa simpan bahan makanan anak kos.",
+    "teknologi": "JavaScript",
+    "status": "Selesai",
+    "demoUrl": "https://fatihatulikrimah41-lgtm.github.io/Aplikasi-Pengingat-Masa-Kedaluwarsa-Makanan-di-Kos/",
+    "repoUrl": "https://github.com/fatihatulikrimah41-lgtm/Aplikasi-Pengingat-Masa-Kedaluwarsa-Makanan-di-Kos"
+  },
+  {
+    "id": "cyber-app",
+    "judul": "Cyber",
+    "deskripsi": "Aplikasi web bertema cyber yang di-deploy di Render.",
+    "teknologi": "Cyber Web",
+    "status": "Selesai",
+    "demoUrl": "https://private-c-sirs-1.onrender.com",
+    "repoUrl": "https://github.com/fatihatulikrimah41-lgtm"
+  }
+]
