@@ -1,0 +1,1 @@
+# lpk-4a-pertemuan-6_Fatihatul-ikrimah_240511136
